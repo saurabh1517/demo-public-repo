@@ -12,6 +12,7 @@ Saurabh Jain is a passionate developer who has been actively contributing to the
 
 **GitHub Statistics:**
 - **Public Repositories:** 1
+- **Private Repositories:** 2
 - **Public Gists:** 0
 - **Followers:** 0
 - **Following:** 0
@@ -20,7 +21,7 @@ Saurabh Jain is a passionate developer who has been actively contributing to the
 
 Saurabh believes in the power of open-source development and is dedicated to creating projects that serve as learning resources for the developer community. The author is committed to transparency and encourages collaboration on all projects.
 
-## Other Repositories by Saurabh Jain
+## Complete Repository Portfolio
 
 Saurabh is actively working on several projects across different domains:
 
